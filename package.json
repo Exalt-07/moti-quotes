@@ -1,0 +1,50 @@
+{
+  "name": "daily-motivation-quotes",
+  "version": "1.0.0",
+  "description": "AI-powered daily motivational quote generator with intelligent selection based on time and user preferences",
+  "main": "index.html",
+  "scripts": {
+    "start": "python -m http.server 8000",
+    "build": "echo 'Building for production...' && mkdir -p dist && cp *.html *.css *.js dist/",
+    "deploy": "gh-pages -d dist",
+    "dev": "python -m http.server 3000",
+    "test": "echo 'No tests yet - contributions welcome!'",
+    "lint": "echo 'Linting with built-in browser tools'"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yourusername/daily-motivation-quotes.git"
+  },
+  "keywords": [
+    "motivation",
+    "quotes",
+    "ai",
+    "daily",
+    "inspiration",
+    "javascript",
+    "web-app",
+    "pwa",
+    "github-pages",
+    "motivational-quotes",
+    "personal-development",
+    "productivity",
+    "mindfulness"
+  ],
+  "author": "Your Name <your.email@example.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/yourusername/daily-motivation-quotes/issues"
+  },
+  "homepage": "https://yourusername.github.io/daily-motivation-quotes",
+  "devDependencies": {
+    "gh-pages": "^6.0.0"
+  },
+  "engines": {
+    "node": ">=14.0.0"
+  },
+  "browserslist": [
+    "> 1%",
+    "last 2 versions",
+    "not dead"
+  ]
+}
