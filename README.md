@@ -82,7 +82,7 @@ daily-motivation-quotes/
 
 1. **Clone the repository**:
 ```bash
-git clone https://github.com/yourusername/daily-motivation-quotes.git
+git clone https://github.com/yourusername/moti-quotes.git
 cd daily-motivation-quotes
 ```
 
