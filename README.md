@@ -2,7 +2,7 @@
 
 A beautiful, modern web application that generates motivational quotes using AI-powered selection algorithms. The app intelligently chooses quotes based on time of day, day of the week, and user preferences to provide the most relevant inspiration.
 
-## 🌟 Features
+##  Features
 
 ### Core Functionality
 - **AI-Powered Quote Selection**: Intelligent algorithm that selects quotes based on:
@@ -35,11 +35,11 @@ A beautiful, modern web application that generates motivational quotes using AI-
 - **Category Filtering**: Quotes organized by themes (Success, Persistence, Growth, etc.)
 - **Progressive Enhancement**: Works offline with cached quotes
 
-## 🚀 Demo
+##  Demo
 
 **Live Demo**: [View the App](https://ppl-ai-code-interpreter-files.s3.amazonaws.com/web/direct-files/32e0c5a3e5f9ccb1f25fbb6b8f8af699/9a5a1309-c4a5-4b28-ae2d-1800a7b8b58c/index.html)
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - **Frontend**: HTML5, CSS3, Vanilla JavaScript
 - **AI/Logic**: Custom algorithms for intelligent quote selection
@@ -51,7 +51,7 @@ A beautiful, modern web application that generates motivational quotes using AI-
 - **Icons**: Font Awesome 6
 - **Deployment**: GitHub Pages compatible
 
-## 📁 Project Structure
+##  Project Structure
 
 ```
 daily-motivation-quotes/
@@ -65,7 +65,7 @@ daily-motivation-quotes/
         └── deploy.yml     # GitHub Actions deployment
 ```
 
-## 🔧 Installation & Setup
+##  Installation & Setup
 
 ### Option 1: Quick Deploy to GitHub Pages
 
@@ -135,7 +135,7 @@ The app uses a sophisticated selection algorithm that considers:
 - **Offline**: Local curated database of 25+ quotes
 - **Error Recovery**: Graceful handling of API failures
 
-## 📱 Features Walkthrough
+##  Features Walkthrough
 
 ### Getting Quotes
 - **Today's Quote**: AI-selected based on current time and context
@@ -152,15 +152,7 @@ The app uses a sophisticated selection algorithm that considers:
 - **Copy to Clipboard**: Easy quote copying
 - **Image Generation**: Create shareable quote images (future feature)
 
-## 🎨 Design Philosophy
-
-- **Minimalist**: Clean, distraction-free interface
-- **Accessible**: WCAG 2.1 AA compliant
-- **Responsive**: Mobile-first, works on all screen sizes
-- **Performance**: Fast loading, optimized assets
-- **User-Centric**: Every feature serves user motivation
-
-## 🔮 Roadmap
+##  Roadmap
 
 ### Near Term
 - [ ] Text-to-speech for quotes
@@ -176,43 +168,9 @@ The app uses a sophisticated selection algorithm that considers:
 - [ ] Mobile app version
 - [ ] Widget for websites
 
-## 🤝 Contributing
-
-Contributions are welcome! Here's how to contribute:
-
-1. **Fork the repository**
-2. **Create feature branch**: `git checkout -b feature/amazing-feature`
-3. **Commit changes**: `git commit -m 'Add amazing feature'`
-4. **Push to branch**: `git push origin feature/amazing-feature`
-5. **Open Pull Request**
-
-### Areas for Contribution
-- Additional quote sources/APIs
-- Enhanced AI algorithms
-- New themes and designs
-- Performance optimizations
-- Accessibility improvements
-- Translation/internationalization
-
-## 📄 License
+## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
-## 🙏 Acknowledgments
-
-- **ZenQuotes API** for providing free motivational quotes
-- **Quotable API** for backup quote service
-- **Font Awesome** for beautiful icons
-- **Google Fonts** for typography
-- **All the philosophers, leaders, and thinkers** whose words inspire us daily
-
-## 📊 Stats & Performance
-
-- **Load Time**: < 2 seconds on 3G connection
-- **Bundle Size**: < 500KB total
-- **Lighthouse Score**: 95+ in all categories
-- **Browser Support**: All modern browsers (IE11+)
-- **Accessibility**: WCAG 2.1 AA compliant
 
 ## 🌐 API Information
 
@@ -221,19 +179,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Rate Limit**: 5 requests per 30 seconds (free tier)
 - **Features**: High-quality curated quotes
 
-### Backup API: Quotable
-- **Endpoint**: `https://api.quotable.io/random`
-- **Rate Limit**: 180 requests per minute
-- **Features**: Large database, tag filtering
-
-## 📞 Contact & Support
-
-- **Issues**: Please report bugs via GitHub Issues
-- **Questions**: Create a discussion in the repository
-- **Email**: [Your contact information]
-
----
-
-**Made with ❤️ for daily motivation and inspiration**
-
-*Transform your day, one quote at a time.*
